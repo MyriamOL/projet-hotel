@@ -9,8 +9,8 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
+
 public class Reservation {
-	
 	private int numReservation;
 	private Date dateDebut;
 	private Date dateFin;
